@@ -18,3 +18,29 @@ For more Labs and project work: https://github.com/MonalPatel
 Related links:
 https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/examples_index.html
 https://media.readthedocs.org/pdf/jupyter-notebook/4.x/jupyter-notebook.pdf
+
+
+Start labs with 
+1)PYNQ_Jupyter Getting started.pdf
+
+Explore PYNQ board through Jupyter
+
+2) Exploring the board.ipynb
+
+for image import and rotation
+
+3)Image+Import+Rotates.ipynb
+
+4)OpenCV HDMI Filter Monal.ipynb
+
+5)OpenCV face detect HDMI Monal.ipynb
+
+6)OpenCV+Histogram.ipynb
+
+import videos in Jupyternote book and extract frames
+
+7)video+import+Monal.ipynb
+
+8)Display youtube video in jupyter notebook Monal.ipynb
+
+9)Extracting and Saving Video Frames Monal.ipynb
