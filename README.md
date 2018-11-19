@@ -26,7 +26,7 @@ Start labs with
 
 Explore PYNQ board through Jupyter
 
-2) Exploring the board.ipynb
+2)Exploring the board.ipynb
 
 for image import and rotation
 
