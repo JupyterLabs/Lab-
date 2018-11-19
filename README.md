@@ -1,5 +1,6 @@
 # Lab-PYNQ-Jupyter
-This repository contains material for a 1-day Jupyter labs.The material consists of PDF presentations, and Jupyter Notebook lab examples and corresponding lab files.
+This repository contains material for a 1-day Jupyter labs.The material consists of PDF presentations, and Jupyter Notebook lab examples.
+
 
 Prerequisites for running the labs:
 
