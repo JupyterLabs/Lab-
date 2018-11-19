@@ -21,6 +21,7 @@ https://media.readthedocs.org/pdf/jupyter-notebook/4.x/jupyter-notebook.pdf
 
 
 Start labs with 
+
 1)PYNQ_Jupyter Getting started.pdf
 
 Explore PYNQ board through Jupyter
