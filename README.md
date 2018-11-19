@@ -11,3 +11,5 @@ You can download latest PYNQ Image from below link : http://www.pynq.io/board
 
 3)HDMI cables,ethernet cable,webcam
 
+
+For more Labs and project work: https://github.com/MonalPatel
