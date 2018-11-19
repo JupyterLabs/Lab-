@@ -14,3 +14,7 @@ You can download latest PYNQ Image from below link : http://www.pynq.io/board
 
 
 For more Labs and project work: https://github.com/MonalPatel
+
+Related links:
+https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/examples_index.html
+https://media.readthedocs.org/pdf/jupyter-notebook/4.x/jupyter-notebook.pdf
