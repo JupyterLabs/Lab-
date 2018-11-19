@@ -7,5 +7,7 @@ Prerequisites for running the labs:
 
 2)PYNQ v2.2 image for the PYNQ-Z1 board
 
+You can download latest PYNQ Image from below link : http://www.pynq.io/board
+
 3)HDMI cables,ethernet cable,webcam
 
